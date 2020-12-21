@@ -1,4 +1,4 @@
-export const dailyData = {
+export default {
   name: 'ns1:timeSeriesResponseType',
   declaredType: 'org.cuahsi.waterml.TimeSeriesResponseType',
   scope: 'javax.xml.bind.JAXBElement$GlobalScope',
