@@ -1,4 +1,4 @@
-import { simpleSchema, simpleSchema2 } from './simpleSchema';
+import { simpleSchema, simpleSchema2, simpleSchema3 } from './simpleSchema';
 import usgsDailySchema from './usgsDailySchema';
 
-export { simpleSchema, simpleSchema2, usgsDailySchema };
+export { simpleSchema, simpleSchema2, simpleSchema3, usgsDailySchema };
