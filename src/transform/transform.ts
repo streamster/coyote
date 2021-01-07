@@ -50,6 +50,7 @@ const fillRecord = (
 };
 
 //TODO add config checks and throw errors
+/** */
 const transform = ({ data, iterators = ['*'], schema }: TransformArgs): any => {
   if (!data) {
     throw new Error(
